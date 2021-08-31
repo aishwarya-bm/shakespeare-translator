@@ -1,3 +1,3 @@
 # shakespeare-translator
 
-A vanilla JS app to translate text to Shakespeare's English
+A vanilla JS app to translate text input to Shakespeare's English
